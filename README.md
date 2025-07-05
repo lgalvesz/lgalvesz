@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">👩‍💻 Sobre mim</h3>
+<h2 align="center">👩‍💻 Sobre mim</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="center">🛠 Linguagens e ferramentas</h3>
+<h2 align="center">🛠 Linguagens e ferramentas</h3>
 
 ###
 
