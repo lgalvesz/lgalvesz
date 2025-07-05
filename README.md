@@ -8,7 +8,6 @@
 
 <h2 align="center">👩‍💻 Sobre mim</h3>
 
-###
 
 <p align="left">Eu sou o Luís, desenvolvedor apaixonado por tecnologia, estou sempre em busca de novos desafios e oportunidades para aplicar minha experiência e habilidades em programação e tecnologias web. Comprometido em contribuir com soluções inovadoras e eficientes, trabalho com foco na excelência e na melhoria contínua.</p>
 
@@ -27,7 +26,6 @@
 
 <h2 align="center">🛠 Linguagens e ferramentas</h3>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" />
@@ -54,7 +52,6 @@
 
 <p align="center">Volte sempre! :D</p>
 
-###
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" />
