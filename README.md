@@ -8,10 +8,8 @@
 
 <h2 align="center">👩‍💻 Sobre mim</h3>
 
-
 <p align="left">Eu sou o Luís, desenvolvedor apaixonado por tecnologia, estou sempre em busca de novos desafios e oportunidades para aplicar minha experiência e habilidades em programação e tecnologias web. Comprometido em contribuir com soluções inovadoras e eficientes, trabalho com foco na excelência e na melhoria contínua.</p>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lgalvesz/" target="_blank">
