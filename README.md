@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">Desenvolvedor Full Stack | Graduando em Análise e Desenvolvimento de Sistemas</h6>
+<h6 align="center">Graduando em Análise e Desenvolvimento de Sistemas | Analista de TI</h6>
 
 ###
 ---
