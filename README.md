@@ -2,28 +2,40 @@
 
 ###
 
-<h6 align="center">Graduando em Análise e Desenvolvimento de Sistemas | Analista de TI</h6>
+<h6 align="center">Analista de TI | Graduando em Análise e Desenvolvimento de Sistemas</h6>
+
+###
+---
+
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<h2 align="center">👩‍💻 Sobre mim</h3>
+<p align="left">
+  Eu sou o Luís, desenvolvedor apaixonado por tecnologia, estou sempre em busca de novos desafios e oportunidades para aplicar minha experiência e habilidades em programação e tecnologias web.
+  Comprometido em contribuir com soluções inovadoras e eficientes, trabalho com foco na excelência e na melhoria contínua.
+</p>
 
-<p align="left">Eu sou o Luís, desenvolvedor apaixonado por tecnologia, estou sempre em busca de novos desafios e oportunidades para aplicar minha experiência e habilidades em programação e tecnologias web. Comprometido em contribuir com soluções inovadoras e eficientes, trabalho com foco na excelência e na melhoria contínua.</p>
-
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lgalvesz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:lgalvesz@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
 ###
+---
 
-<h2 align="center">🛠 Linguagens e ferramentas</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lgalvesz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lgalvesz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
 
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" />
@@ -41,16 +53,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lgalvesz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lgalvesz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lgalvesz/lgalvesz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lgalvesz/lgalvesz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lgalvesz/lgalvesz/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
-
-<p align="center">Volte sempre! :D</p>
-
+---
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif" />
 </div>
+
+###
+
+<p align="center"><i>Volte sempre! :D</i></p>
