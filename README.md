@@ -16,7 +16,7 @@
 </div>
 
 ###
-
+---
 <h3 align="left">👋 Olá!</h3>
 
 ###
@@ -27,7 +27,7 @@ Para mais informações, acesse meu <a href="https://www.linkedin.com/in/lgalves
 </p>
 
 ###
-
+---
 <div align="left">
   <img height="200" src="https://media.tenor.com/BuSEbkm9aAIAAAAi/hi-otag.gif"  />
 </div>
