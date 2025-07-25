@@ -23,7 +23,7 @@
 
 <p align="left">
 Sou estudante de Desenvolvimento de Software e atuo como Analista de Suporte Computacional, ajudando usuários e equipes a resolver problemas reais com tecnologia. Tenho experiência com suporte, trabalho em equipe e entrega de soluções eficientes e escaláveis. Curso Análise e Desenvolvimento de Sistemas e estou sempre buscando evoluir e contribuir com projetos de impacto.<br><br>
-Para mais informações, acesse meu <a href="https://www.linkedin.com/in/lgalvesz/" target="_blank">LinkedIn</a>.
+Para mais informações, acesse meu <a href="https://www.linkedin.com/in/luisgustavoalves/" target="_blank">LinkedIn</a>.
 </p>
 
 ###
