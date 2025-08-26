@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Analista de Suporte Técnico</h3>
+<h3 align="left">Graduando em Análise e Desenvolvimento de Sistemas</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 ###
 
 <p align="left">
-Sou estudante de Desenvolvimento de Software e atuo como Analista de Suporte Técnico, ajudando usuários e equipes a resolver problemas reais com tecnologia. Tenho experiência com suporte, trabalho em equipe e entrega de soluções eficientes e escaláveis. Curso Análise e Desenvolvimento de Sistemas e estou sempre buscando evoluir e contribuir com projetos de impacto.<br><br>
+Sou estudante autodidata de Desenvolvimento de Software, tenho experiência em suporte a clientes, trabalho em equipe e suporte de hardware e software. Curso Análise e Desenvolvimento de Sistemas e estou sempre buscando evoluir e contribuir com projetos de impacto, com foco em entrega de soluções eficientes e escaláveis.<br><br>
 Para mais informações, acesse meu <a href="https://www.linkedin.com/in/luisgustavoalves/" target="_blank">LinkedIn</a>.
 </p>
 
