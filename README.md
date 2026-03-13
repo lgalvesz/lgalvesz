@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Desenvolvedor de Software Backend</h3>
+<h3 align="left">Desenvolvedor de Software</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 ###
 
 <p align="left">
-Atualmente estou estudando para me tornar Desenvolvedor de Software Backend, tenho experiência profissional e acadêmica na área de tecnologia, como profissional já atuei como Analista de Suporte Técnico (N1) e atualmente atuo como Assistente de Ti Jr na VidaVeg.<br>
+Atualmente estou estudando para me tornar Desenvolvedor de Software, tenho experiência profissional e acadêmica na área de tecnologia, como profissional já atuei como Analista de Suporte Técnico (N1) e atualmente atuo como Assistente de Ti Jr na VidaVeg.<br>
 Sou graduado em Análise e Desenvolvimento de Sistemas, onde tive a oportunidade de estudar e desenvolver projetos acadêmicos com diversas tecnologias.
   <br><br>
 Para mais informações, acesse meu <a href="https://www.linkedin.com/in/luisgustavoalves/" target="_blank">LinkedIn</a>.
